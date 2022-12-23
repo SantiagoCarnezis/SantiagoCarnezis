@@ -2,7 +2,6 @@
 
 
 - 👨‍💻 Working as a Back End Software Developer at [SISA](https://www.sisa.com.ar/).
-- 🧠 I’m currently learning Spring Security and Spring Cloud.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
 
